@@ -1,4 +1,4 @@
-# tobbFET-Flight-Controller-Unit
+# tobbFET Flight Controller Unit
 
 DİKKAT!!! Donanım henüz üretilmemiş ve test edilmemiştir. Şematiği kopyalamak yerine sadece fikir alıp kendi teknik araştırmanızı yapmanızı şiddetle öneriyoruz.
 
