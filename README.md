@@ -1,7 +1,7 @@
 # tobbFET Flight Controller Unit
 Jetson Nano Integrated Flight Controller Board 06/03/2025
 ---
-This project is designed based on the specifications of TEKNOFEST 2025 Inter High School Unmanned Aerial Vehicles Competition. Please do NOT copy the design as is. It has not been tested yet.
+This project is designed based on the specifications of TEKNOFEST 2025 Inter High School Unmanned Aerial Vehicles Competition and **designed by high school students**. Please do NOT copy the design as is. It has not been tested yet.
 
 ---
 ### Schematic and BOM PDF Files
