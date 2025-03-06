@@ -1,11 +1,14 @@
 # tobbFET Flight Controller Unit
+Jetson Nano Integrated Flight Controller Board 06/03/2025
+---
+This project is designed based on the specifications of TEKNOFEST 2025 Inter High School Unmanned Aerial Vehicles Competition. Please do NOT copy the design as is. It has not been tested yet.
 
-DİKKAT!!! Donanım henüz üretilmemiş ve test edilmemiştir. Şematiği kopyalamak yerine sadece fikir alıp kendi teknik araştırmanızı yapmanızı şiddetle öneriyoruz.
+---
+### Schematic and BOM PDF Files
+You can download the Schematic PDF files of the project from [here](https://github.com/Nedim-KerimY/tobbFET-Flight-Controller-Unit/blob/main/tobbFET%20FCU/tobbFET%20FCU.pdf).
 
-✅Şematik Tasarım
-✅Layout Tasarım
-✅Prototipleme için ayrı geliştirme kartlarının Çin'den tedariği
-✅Ardupilot için bootloader oluşturulması
-❌Kart Üretimi
-❌Kart Assembly
-❌Kart Testleri
+---
+### Design Workspace
+You can download the repository and clik tobbFET FCU.DsnWrk to open entire workspace of project.
+
+---
