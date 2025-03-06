@@ -1,0 +1,62 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Kütüphaneler\ZX62D-B-5P8\tobbFET FCU Micro-B USB.LibPkg
+[Project2]
+ProjectPath=Kütüphaneler\LSF0102DQER\tobbFET FCU LSF0102DQER.LibPkg
+[Project3]
+ProjectPath=Kütüphaneler\2001-1-2-21-00-BK\tobbFET FCU 2001-1-2-21-00-BK.LibPkg
+[Project4]
+ProjectPath=Kütüphaneler\1N4148WS\tobbFET FCU 1N4148WS.LibPkg
+[Project5]
+ProjectPath=Kütüphaneler\KMR621NGLFS\tobbFET FCU KMR621NGLFS.LibPkg
+[Project6]
+ProjectPath=Kütüphaneler\DMN26D0UT-7\tobbFET FCU DMN26D0UT-7.LibPkg
+[Project7]
+ProjectPath=Kütüphaneler\AT24C02C-XHM-T\tobbFET FCU AT24C02C-XHM-T.LibPkg
+[Project8]
+ProjectPath=Kütüphaneler\RCLAMP0524P.TCT\tobbFET FCU RCLAMP0524PA.TCT.LibPkg
+[Project9]
+ProjectPath=Kütüphaneler\PasifKomponent\tobbFET FCU Pasif Komponent.LibPkg
+[Project10]
+ProjectPath=Kütüphaneler\MLG1005S1N0BT000\tobbFET FCU MLG1005S1N0BT000.LibPkg
+[Project11]
+ProjectPath=Kütüphaneler\BAS70-05\tobbFET FCU BAS70-05.LibPkg
+[Project12]
+ProjectPath=Kütüphaneler\2309413-1\tobbFET FCU 2309413-1.LibPkg
+[Project13]
+ProjectPath=Kütüphaneler\RCLAMP0522P.TCT\tobbFET FCU RCLAMP0522P.TCT.LibPkg
+[Project14]
+ProjectPath=Kütüphaneler\AP2281-3WG-7\tobbFET FCU AP2281-3WG-7.LibPkg
+[Project15]
+ProjectPath=Kütüphaneler\MT9700\tobbFET FCU MT9700.LibPkg
+[Project16]
+ProjectPath=Kütüphaneler\F305-1A7H1-21022-E100\tobbFET FCU F305-1A7H1-21022-E100.LibPkg
+[Project17]
+ProjectPath=Kütüphaneler\3x1 Male Header 2.54mm\tobbFET FCU 2.54mm 3x1.LibPkg
+[Project18]
+ProjectPath=Kütüphaneler\GSB311435FHR\tobbFET FCU GSB311435FHR.LibPkg
+[Project19]
+ProjectPath=Kütüphaneler\STM32F405RGT6\tobbFET FCU STM32F405RGT6.LibPkg
+[Project20]
+ProjectPath=Kütüphaneler\NX3225GD-8MHZ-STD-CRA-3\tobbFET FCU NX3225GD-8MHZ-STD-CRA-3.LibPkg
+[Project21]
+ProjectPath=Kütüphaneler\BM04B-GHS-TBT\tobbFET FCU BM04B-GHS-TBT.LibPkg
+[Project22]
+ProjectPath=Kütüphaneler\ICM-42688-P\tobbFET FCU ICM-42688-P.LibPkg
+[Project23]
+ProjectPath=Kütüphaneler\BMP388\tobbFET FCU BMP388.LibPkg
+[Project24]
+ProjectPath=Kütüphaneler\W25Q16JVSSIQ\tobbFET FCU W25Q16JVSSIQ.LibPkg
+[Project25]
+ProjectPath=Kütüphaneler\MMBT3904-7-F\tobbFET FCU MMBT3904-7-F.LibPkg
+[Project26]
+ProjectPath=Kütüphaneler\TLV75733PDBVR\tobbFET FCU TLV75733PDBVR.LibPkg
+[Project27]
+ProjectPath=Kütüphaneler\SN74LVC1G07DBVR\tobbFET FCU SN74LVC1G07DBVR.LibPkg
+[Project28]
+ProjectPath=Kütüphaneler\SN74LVC1G38DBVR\tobbFET FCU SN74LVC1G38DBVR.LibPkg
+[Project29]
+ProjectPath=Kütüphaneler\SN74LVC1G126DBVR\tobbFET FCU SN74LVC1G126DBVR.LibPkg
+[Project30]
+ProjectPath=tobbFET FCU\tobbFET FCU.PrjPcb
