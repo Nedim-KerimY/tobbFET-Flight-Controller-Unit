@@ -9,6 +9,6 @@ You can download the Schematic PDF files of the project from [here](https://gith
 
 ---
 ### Design Workspace
-You can download the repository and clik tobbFET FCU.DsnWrk to open entire workspace of project.
+You can download the repository and click tobbFET FCU.DsnWrk to open entire workspace of project.
 
 ---
